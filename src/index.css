@@ -34,7 +34,7 @@
 ==========================================
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Cabin+Condensed:wght@400;500;600;700&family=Gothic+A1:wght@200;300;400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100..900&display=swap');;
 
 :root {
   --primary-color: #262f37;
@@ -857,6 +857,15 @@ img.slider_icon_imgtwo {
   height: 16px;
   background-size: contain;
 } */
+
+
+.card-shadow-testimonials{
+  box-shadow: 0px 16px 43px 25px rgba(0, 0, 0, 0.1)
+}
+
+
+
+
 
 @media (max-width: 575px) {
   .ctm_hex_dv1 {

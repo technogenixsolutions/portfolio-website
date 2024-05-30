@@ -4,11 +4,12 @@ const MarketingSolution = () => {
   return (
     <div className="section_padding_bottom section_padding_top">
       <div className="container">
-        <div className="flex lg:flex-row flex-col justify-between items-center gap-4">
+        <div className="flex lg:flex-row flex-col justify-between gap-12">
           <div className="lg:w-[50%] w-full">
             <FAQ />
           </div>
           <div className="lg:w-[50%] w-full">
+          <h3 className="fs-48 Lh-52 fw-400 mt-4 mb-5">Boost Your Online Footprint With Our All-in-One Development & Marketing Solution.</h3>
             <p className="fs-16">
               Since 2012, we've worked with many international clients and
               well-established brands. We specialize in customization to your

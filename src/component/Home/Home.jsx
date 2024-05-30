@@ -4,6 +4,7 @@ import LandingSection from "./LandingSection";
 import MarketingSolution from "./MarketingSolution";
 import MaxLogos from "./MaxLogos";
 import Services from "./Services";
+import Testimonials from "./Testimonials";
 import WeServeAll from "./WeServeAll";
 
 
@@ -17,6 +18,7 @@ const Home = () => {
             <MaxLogos />
             <LandingSection className="section_padding_bottom section_padding_top" />
             <MarketingSolution  />
+            <Testimonials />
         </>
     );
 };
